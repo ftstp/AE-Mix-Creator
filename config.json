@@ -1,0 +1,11 @@
+{
+    "finalResolution": {
+        "width": 1920,
+        "height": 1080
+    },
+    "compFPS": "24",
+    "fadeOutDuration": 1.3,
+    "tintColor": "#efedeb",
+    "layerFxOpacity": 100,
+    "logoBeforeDuration": 2.5
+  }
